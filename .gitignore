@@ -1,2 +1,7 @@
 *.bak
 /*.lock
+/deployment
+/.classpath
+/.gitignore
+/.project
+/DatabaseStatementStatistics.launch
